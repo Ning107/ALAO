@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/salleca" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/salleca/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/salleca/classroomsystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/salleca/js/moment" vcs="Git" />
+  </component>
+</project>
