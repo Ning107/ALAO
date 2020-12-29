@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>coreNLP</name>
+=======
+	<name>SELF</name>
+>>>>>>> 1eaa6c0 (créer les règles grammaticales pour vérifier la phrase correcte ou pas (pas complet) et la fonction de calcule le score)
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -19,5 +24,9 @@
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+	</buildSpec>
+	<natures>
+>>>>>>> 1eaa6c0 (créer les règles grammaticales pour vérifier la phrase correcte ou pas (pas complet) et la fonction de calcule le score)
 	</natures>
 </projectDescription>
